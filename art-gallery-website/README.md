@@ -17,7 +17,7 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution] []
+- Solution URL: [Frontend Mentor Solution] [https://github.com/RamayyagariLeena/art-gallery-website]
 - Live Site URL: (https://art-gallery-website-leenaramayyagari.netlify.app/)
 ## My process
 
